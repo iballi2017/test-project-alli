@@ -1,0 +1,10 @@
+> git status
+> git branch
+> git checkout destination-branch-name
+
+
+> git add index.html
+> git add .
+> git add index.html style.css app.js
+> git commit -m "commit message"
+> git push origin Index-update
